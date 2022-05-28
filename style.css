@@ -66,8 +66,8 @@ overflow:scroll ;
 }
 
 .iframe-css{
-
-
+  
+  background-color: #white;
   font-size: 20px;
   min-height: 25rem; 
     min-width: 18rem;
